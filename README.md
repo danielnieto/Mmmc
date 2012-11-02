@@ -22,18 +22,18 @@ tl;dr: This is a database of your movies, keeping notes and status of a movie re
 
 ##What this software IS
 
-*It's a database written in Java
-*You can keep track of your movies, even if you delete them later
-*Has a built-in movie scanner, so you can add "automagically" all your movies from a folder and it's subfolders
-*Packaged with SQLJet, so you can copy the Jar file and the "mmmcdb" database file wherever you want, no installation needed
-*Easy and quick search for movies
-*This software is in English only
+- It's a database written in Java
+- You can keep track of your movies, even if you delete them later
+- Has a built-in movie scanner, so you can add "automagically" all your movies from a folder and it's subfolders
+- Packaged with SQLJet, so you can copy the Jar file and the "mmmcdb" database file wherever you want, no installation needed
+- Easy and quick search for movies
+- This software is in English only
 
 ##What this software IS NOT
 
-*It's not a player, this software DOES NOT play movies, only keeps it's name, notes and status
-*It doesn't update movie names automatically, nor detect if they were deleted or moved
-*It doesn't show you where the actual movie file is, it doesn't even save it's path (maybe later I'll add this feature)
+- It's not a player, this software DOES NOT play movies, only keeps it's name, notes and status
+- It doesn't update movie names automatically, nor detect if they were deleted or moved
+- It doesn't show you where the actual movie file is, it doesn't even save it's path (maybe later I'll add this feature)
 
 ###Use it every time you want to download a movie to check if you already have it!
 
@@ -63,18 +63,18 @@ tl;dr: Es una base de datos para tus películas, guardando notas y su estado.
 
 ##Lo que este software SI ES
 
-*Es una base de datos escrita en Java
-*Puedes mantener registro de tus películas, incluso si las borras luego
-*Tiene un scanner de películas integrado, asi que puedes agregar el registro de todas las películas "automágicamente" de una carpeta y sus subcarpetas
-*Esta empaquetado con SQLJet, así que puedes copiar el archivo jar, y la base de datos "mmmcdb" a donde quieras, no se necesita instalación
-*Búsqueda de películas fácil y rápido
-*Este software solo esta disponible en Inglés (pero esta muy facil usarlo, incluso si no sabes inglés)
+- Es una base de datos escrita en Java
+- Puedes mantener registro de tus películas, incluso si las borras luego
+- Tiene un scanner de películas integrado, asi que puedes agregar el registro de todas las películas "automágicamente" de una carpeta y sus subcarpetas
+- Esta empaquetado con SQLJet, así que puedes copiar el archivo jar, y la base de datos "mmmcdb" a donde quieras, no se necesita instalación
+- Búsqueda de películas fácil y rápido
+- Este software solo esta disponible en Inglés (pero esta muy facil usarlo, incluso si no sabes inglés)
 
 
 ##Lo que este software NO ES
 
-*No es un reproductor, este software NO reproduce películas, solo guarda su nombre, notas y estados
-*No actualiza los nombres de las películas automaticamente, ni detecta si fueron borradas o movidas
-*No te muestra donde está el archivo de la película, ni siquiera guarda su ruta (tal vez después agregaré esta función)
+- No es un reproductor, este software NO reproduce películas, solo guarda su nombre, notas y estados
+- No actualiza los nombres de las películas automaticamente, ni detecta si fueron borradas o movidas
+- No te muestra donde está el archivo de la película, ni siquiera guarda su ruta (tal vez después agregaré esta función)
 
 ###¡Usalo cada vez que quieras descargar una película para revisar si ya la tienes!
